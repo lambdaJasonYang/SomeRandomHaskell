@@ -5,3 +5,8 @@ Run Single File:stack ghci test.hs
 Run Project: stack runhaskell main.hs  
 
 Install library:stack install HTTP  
+
+## Notes  
+Haskell type classes are like interfaces  
+Haskell type classes are contructed with "Class Blah a where ..."  
+Haskell type classes are used with "instance Blah Sometype where ..."  
